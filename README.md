@@ -37,8 +37,8 @@ else:
 ```
 
 ## Output:
-![Screenshot 2024-04-06 205522](https://github.com/SanjaiOfficial/Square-root-of-a-number/assets/151763180/e50d5f65-d669-4ea2-aa34-ab13612f2608)
-![Screenshot 2024-04-06 205534](https://github.com/SanjaiOfficial/Square-root-of-a-number/assets/151763180/f089843f-09dc-4e64-9356-a3d0da05ba7b)
+![image](https://github.com/SanjaiOfficial/Square-root-of-a-number/assets/151763180/8e520396-9cae-4a7b-83d3-31b36323db6c)
+
 
 
 
